@@ -53,6 +53,10 @@ body
 	{color:red;
 		width:950px;}
 
+#bodywrapper{
+	width:950px;
+	margin:0 auto;}
+
 h1{font-size:26px;
 	font-weight:bold;
 	font-style:italic;
