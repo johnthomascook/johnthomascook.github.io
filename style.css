@@ -52,4 +52,8 @@ table {
 body 
 	{color:red;}
 
-h1{font-size:26px;}
+h1{font-size:26px;
+	font-weight:bold;}
+	
+h2{font-size:18px;}
+
