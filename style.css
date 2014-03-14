@@ -77,7 +77,8 @@ ul{list-style:disc;
 
 li{padding-left:10px;}
 
-#navigation {float:right;}
+#navigation {float:right;
+margin-top:-12px;}
 
 #navigation li {
 	display:inline-block;
