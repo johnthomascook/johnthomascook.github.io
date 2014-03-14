@@ -50,7 +50,8 @@ table {
 
 
 body 
-	{color:red;}
+	{color:red;
+		width:950px;}
 
 h1{font-size:26px;
 	font-weight:bold;
