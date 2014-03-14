@@ -74,6 +74,8 @@ ul{list-style:disc;
 
 li{padding-left:10px;}
 
+#navigation {float:rigth;}
+
 #navigation li {
 	display:inline-block;
 	margin:0 6px;}
